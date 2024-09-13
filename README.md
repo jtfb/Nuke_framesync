@@ -12,7 +12,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/nuke_framesync.git
+   git clone https://github.com/jtfb/nuke_framesync.git
 2. Add the Script to Nuke: Copy the framesync.py script to your Nuke plugin path. You can find your Nuke plugin path in Nuke's preferences under the "User" tab.
 
 3. Update Nuke Menu: Add the following line to your menu.py to create a menu item for the FrameSync tool:
