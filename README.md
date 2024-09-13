@@ -18,8 +18,8 @@
 3. Update Nuke Menu: Add the following line to your menu.py to create a menu item for the FrameSync tool:
 
 ```bash
-  import framesync
-  framesync.add_menu()
+  import nuke_framesync
+  nuke_framesync.add_menu()
 ```
 ## Installation - option 2
 
